@@ -5,7 +5,7 @@ By Ramyar Daneshgar
 ## **Introduction**
 
 In this lab, I conducted a penetration test against a web application to identify and exploit broken authentication vulnerabilities. My objective was to systematically enumerate users, leverage credential stuffing, manipulate authentication tokens, and escalate privileges to gain administrative access. This writeup follows an offensive security methodology, utilizing enumeration techniques, brute-force attacks, token hijacking, and session manipulation. 
----
+
 
 ## **Step 1: Enumerating Users**
 
