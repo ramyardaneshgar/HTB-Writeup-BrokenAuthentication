@@ -1,4 +1,4 @@
-**Hack The Box Writeup: Broken Authentication**
+**Broken Authentication**
 
 By Ramyar Daneshgar 
 
